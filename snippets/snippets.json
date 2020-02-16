@@ -1,0 +1,318 @@
+{
+  "styledNativeView": {
+    "prefix": "scrn-view",
+    "body": [
+      "export const ${1} = styled.View`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled View for React Native"
+  },
+  "styledNativeKeyboardAvoidingView": {
+    "prefix": "scrn-kaview",
+    "body": [
+      "export const ${1} = styled.KeyboardAvoidingView`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled KeyboardAvoidingView for React Native"
+  },
+  "styledNativeSafeAreaView": {
+    "prefix": "scrn-saview",
+    "body": [
+      "export const ${1} = styled.SafeAreaView`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled SafeAreaView for React Native"
+  },
+  "styledNativeText": {
+    "prefix": "scrn-text",
+    "body": [
+      "export const ${1} = styled.Text`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styed Text for React Native"
+  },
+  "styledNativeInput": {
+    "prefix": "scrn-input",
+    "body": [
+      "export const ${1} = styled.TextInput`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Create Styled TextInput for React Native"
+  },
+  "styledNativeButton": {
+    "prefix": "scrn-button",
+    "body": [
+      "export const ${1} = styled.Button`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Create Styled Button for React Native"
+  },
+  "styledNativImage": {
+    "prefix": "scrn-image",
+    "body": [
+      "export const ${1} = styled.Image`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Create Styled Image for React Native"
+  },
+  "styledNativeTouchableOpacity": {
+    "prefix": "scrn-to",
+    "body": [
+      "export const ${1} = styled.TouchableOpacity`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled TextInput for React Native"
+  },
+  "styledNativeTouchableHighlight": {
+    "prefix": "scrn-thl",
+    "body": [
+      "export const ${1} = styled.TouchableHighlight`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled TouchableHighlight for React Native"
+  },
+  "styledNativeFlatList": {
+    "prefix": "scrn-flatlist",
+    "body": [
+      "export const ${1} = styled.FlatList`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled FlatList for React Native"
+  },
+
+  "styledReactDiv": {
+    "prefix": "scr-div",
+    "body": [
+      "export const ${1} = styled.div`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled div for React"
+  },
+  "styledReactH1": {
+    "prefix": "scr-h1",
+    "body": [
+      "export const ${1} = styled.h1`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled h1 for React"
+  },
+  "styledReactH2": {
+    "prefix": "scr-h2",
+    "body": [
+      "export const ${1} = styled.h2`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled h2 for React"
+  },
+  "styledReactH3": {
+    "prefix": "scr-h3",
+    "body": [
+      "export const ${1} = styled.h3`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled h3 for React"
+  },
+  "styledReactH4": {
+    "prefix": "scr-h4",
+    "body": [
+      "export const ${1} = styled.h4`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled h4 for React"
+  },
+  "styledReacInput": {
+    "prefix": "scr-input",
+    "body": [
+      "export const ${1} = styled.input`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled input for React"
+  },
+  "styledReactTextArea": {
+    "prefix": "scr-textarea",
+    "body": [
+      "export const ${1} = styled.textarea`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled textarea for React"
+  },
+  "styledReactLabel": {
+    "prefix": "scr-label",
+    "body": [
+      "export const ${1} = styled.label`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled label for React"
+  },
+  "styledReactSelect": {
+    "prefix": "scr-select",
+    "body": [
+      "export const ${1} = styled.select`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled select for React"
+  },
+  "styledReactButton": {
+    "prefix": "scr-button",
+    "body": [
+      "export const ${1} = styled.button`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled button for React"
+  },
+  "styledReactForm": {
+    "prefix": "scr-form",
+    "body": [
+      "export const ${1} = styled.form`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled form for React"
+  },
+  "styledReactUl": {
+    "prefix": "scr-ul",
+    "body": [
+      "export const ${1} = styled.ul`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled ul for React"
+  },
+  "styledReactOl": {
+    "prefix": "scr-ol",
+    "body": [
+      "export const ${1} = styled.ol`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled ol for React"
+  },
+  "styledReactLi": {
+    "prefix": "scr-li",
+    "body": [
+      "export const ${1} = styled.li`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled li for React"
+  },
+  "styledReactHeader": {
+    "prefix": "scr-header",
+    "body": [
+      "export const ${1} = styled.header`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled header for React"
+  },
+  "styledReactMain": {
+    "prefix": "scr-main",
+    "body": [
+      "export const ${1} = styled.main`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled main for React"
+  },
+  "styledReactNav": {
+    "prefix": "scr-nav",
+    "body": [
+      "export const ${1} = styled.nav`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled nav for React"
+  },
+  "styledReactSection": {
+    "prefix": "scr-section",
+    "body": [
+      "export const ${1} = styled.section`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled section for React"
+  },
+  "styledReactAddress": {
+    "prefix": "scr-address",
+    "body": [
+      "export const ${1} = styled.address`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled address for React"
+  },
+  "styledReactArticle": {
+    "prefix": "scr-article",
+    "body": [
+      "export const ${1} = styled.article`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled article for React"
+  },
+  "styledReactAside": {
+    "prefix": "scr-aside",
+    "body": [
+      "export const ${1} = styled.aside`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled aside for React"
+  },
+  "styledReactFooter": {
+    "prefix": "scr-footer",
+    "body": [
+      "export const ${1} = styled.footer`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled footer for React"
+  },
+  "styledReactLink": {
+    "prefix": "scr-a",
+    "body": [
+      "export const ${1} = styled.a`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled a for React"
+  },
+  "styledReactSpan": {
+    "prefix": "scr-span",
+    "body": [
+      "export const ${1} = styled.span`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled span for React"
+  },
+  "styledReactTable": {
+    "prefix": "scr-table",
+    "body": [
+      "export const ${1} = styled.table`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled table for React"
+  },
+}

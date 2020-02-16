@@ -1,0 +1,30 @@
+{
+    "name": "styled-components-snippets",
+    "displayName": "Styled Components Snippets",
+    "description": "Snippets for Styled Components ",
+    "version": "0.0.1",
+    "icon": "assets/code.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/danielsousast/styled-components-snippets"
+    },
+    "publisher": "danielsousadev",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
