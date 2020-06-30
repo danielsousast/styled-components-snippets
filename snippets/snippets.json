@@ -26,6 +26,15 @@
     ],
     "description": "Styled SafeAreaView for React Native"
   },
+  "styledNativeScrollView": {
+    "prefix": "scrn-scroll",
+    "body": [
+      "export const ${1} = styled.ScrollView`",
+      "${2}",
+      "`;"
+    ],
+    "description": "Styled ScrollView for React Native"
+  },
   "styledNativeText": {
     "prefix": "scrn-text",
     "body": [
@@ -314,5 +323,5 @@
       "`;"
     ],
     "description": "Styled table for React"
-  },
+  }
 }
