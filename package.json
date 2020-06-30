@@ -2,7 +2,7 @@
     "name": "styled-components-snippets",
     "displayName": "Styled Components Snippets",
     "description": "Snippets for Styled Components ",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "icon": "assets/code.png",
     "repository": {
         "type": "git",
