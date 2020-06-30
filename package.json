@@ -2,7 +2,7 @@
     "name": "styled-components-snippets",
     "displayName": "Styled Components Snippets",
     "description": "Snippets for Styled Components ",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "icon": "assets/code.png",
     "repository": {
         "type": "git",
@@ -20,16 +20,16 @@
             {
                 "language": "javascriptreact",
                 "path": "./snippets/snippets.json"
-              },
-              {
+            },
+            {
                 "language": "javascript",
                 "path": "./snippets/snippets.json"
-              },
-              {
+            },
+            {
                 "language": "typescript",
                 "path": "./snippets/snippets-ts.json"
-              },
-              {
+            },
+            {
                 "language": "typescriptreact",
                 "path": "./snippets/snippets-ts.json"
             }
