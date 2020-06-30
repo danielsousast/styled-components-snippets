@@ -27,11 +27,11 @@
             },
             {
                 "language": "typescript",
-                "path": "./snippets/snippets-ts.json"
+                "path": "./snippets/snippets.json"
             },
             {
                 "language": "typescriptreact",
-                "path": "./snippets/snippets-ts.json"
+                "path": "./snippets/snippets.json"
             }
         ]
     }
